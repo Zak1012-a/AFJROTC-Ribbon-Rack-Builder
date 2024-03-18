@@ -1,0 +1,76 @@
+KEY:                                                                  
+                    
+GS = Gold Star      BO  = Bronze Oak Leaf Cluster          NA = No Attachment                         
+SS = Silver Star    SO  = Silver Oak Leaf Cluster
+BS = Bronze Star    SBO = Silver & Bronze Oak Leaf Cluster
+
+Ribbon Name:                                                        ID Number:
+
+Valor Award (Gold)                                                  = 1NA0
+Valor Award (Silver)                                                = 2NA0            
+Cadet Humanitarian Award                                            = 3NA0
+Silver Star Community Service with Excellence Award                 = 4NA0
+Community Service with Excellence Award                             = 5NA0
+Air Force Association Award                                         = 6NA0
+Daedalion Award                                                     = 7NA0
+Daughters of the American Revolution Award                          = 8NA0
+American Legion Scholastic Award                                    = 9NA0  
+American Legion General Military Excellence Award                   = 10NA0
+Reserve Officers Association Award                                  = 11NA0
+Military Officers Association Award                                 = 12NA0
+Veterans of Foreign Wars (VFW) Award                                = 13NA0
+National Society, Daughters of 1812                                 = 14NA0
+National Sojourners Award                                           = 15NA0
+Scottish Rite, Southern Jurisdiction Award                          = 16NA0
+Military Order of the Purple Heart                                  = 17NA0
+Sons of the American Revolution Award                               = 18NA0
+Military Order of World Wars Medal                                  = 19NA0
+American Veterans Award                                             = 20NA0
+Air Force Sergeants Association                                     = 21NA0
+Tuskeegee Airmen Inc AFJROTC Cadet Award                            = 22NA0
+Retired Enlisted Association Award                                  = 23NA0
+Celebrate Freedom Foundation Award                                  = 24NA0
+Air Commando Association Award                                      = 25NA0
+Distinguished Unit Award w/Merit                                    = 26NA0 , 26SS1 , 26SS2 , 26SS3 , 26SS4
+Distinguished Unit Award                                            = 27NA0 , 27SS1 , 27SS2 , 27SS3 , 27SS4
+Outstanding Organization Award                                      = 28NA0 , 28SS1 , 28SS2 , 28SS3 , 28SS4
+Outstanding Flight Ribbon                                           = 29NA0 , 29BO1 , 29BO2 , 29BO3 , 29BO4 , 29SO1 , 29SBO1 
+Top Performer Award                                                 = 
+Outstanding Cadet Ribbon                                            =                                           
+Leadership Ribbon                                                   =
+Superior Performance Ribbon                                         =
+Achievement Ribbon                                                  =
+Academic Ribbon                                                     =
+Cadet Leadership Course Ribbon                                      =
+Special Teams Competition Ribbon                                    =
+All-Service National Competition Ribbon                             =
+Air Force Nationals Competition Ribbon                              =
+Orienteering Ribbon                                                 =
+Leadership Development Requirement (LDR)                            =
+Drill Team Ribbon                                                   =
+Color Guard Ribbon                                                  =
+Sabre Team Ribbon                                                   =
+Marksmanship Ribbon                                                 =
+USAA Education Foundation JLAB                                      =
+Cyber Patriot Ribbon                                                =
+StellarXplorers Ribbon                                              =
+Raiders Team Ribbon                                                 =
+Military Model Building Ribbon                                      =
+Unmanned Aircraft Systems (UAS) Ribbon                              =
+Robotics Ribbon                                                     =
+Good Conduct Ribbon                                                 =
+Service Ribbon                                                      =
+Health and Wellness Ribbon                                          =
+Recruiting Ribbon                                                   =
+Activities Ribbon                                                   =
+Attendance Ribbon                                                   =
+Dress and Appearance Ribbon                                         =
+Longevity Ribbon                                                    =
+Bataan Death March Memorial Hike Award                              =
+Patriotic Flag Ribbon                                               =
+COVID-19 Resiliency Ribbon                                          =
+CAP General Carl Spaatz Award                                       =
+CAP General Ira C. Eaker Award                                      =
+CAP Amelia Earhart Award                                            =
+CAP General Billy Mitchell Award                                    =
+CAP General J.F. Curry Achievement Award                            =
