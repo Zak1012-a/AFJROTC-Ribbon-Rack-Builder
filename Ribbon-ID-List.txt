@@ -74,3 +74,6 @@ CAP General Ira C. Eaker Award                                      = 65NA0
 CAP Amelia Earhart Award                                            = 66NA0
 CAP General Billy Mitchell Award                                    = 67NA0
 CAP General J.F. Curry Achievement Award                            = 68NA0
+
+Complete Order of Precedence with IDs:
+1NA0 , 2NA0 , 3NA0 , 4NA0 , 5NA0 , 6NA0 , 7NA0 , 8NA0 , 9NA0 , 10NA0 , 11NA0 , 12NA0
