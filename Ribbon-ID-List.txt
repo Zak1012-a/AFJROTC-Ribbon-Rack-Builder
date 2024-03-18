@@ -1,8 +1,8 @@
 KEY:                                                                  
                     
-GS = Gold Star      BO  = Bronze Oak Leaf Cluster          NA = No Attachment                         
-SS = Silver Star    SO  = Silver Oak Leaf Cluster
-BS = Bronze Star    SBO = Silver & Bronze Oak Leaf Cluster
+GS = Gold Star      BO  = Bronze Oak Leaf Cluster            BS0 = Bronze Star & Oak Leaf Cluster                     
+SS = Silver Star    SO  = Silver Oak Leaf Cluster            sS0 = Silver Star & Oak Leaf Cluster 
+BS = Bronze Star    SBO = Silver & Bronze Oak Leaf Cluster   GS0 = Gold Star & Oak Leaf Cluster 
 
 Ribbon Name:                                                        ID Number:
 
@@ -35,42 +35,42 @@ Distinguished Unit Award w/Merit                                    = 26NA0 , 26
 Distinguished Unit Award                                            = 27NA0 , 27SS1 , 27SS2 , 27SS3 , 27SS4
 Outstanding Organization Award                                      = 28NA0 , 28SS1 , 28SS2 , 28SS3 , 28SS4
 Outstanding Flight Ribbon                                           = 29NA0 , 29BO1 , 29BO2 , 29BO3 , 29BO4 , 29SO1 , 29SBO1 
-Top Performer Award                                                 = 
-Outstanding Cadet Ribbon                                            =                                           
-Leadership Ribbon                                                   =
-Superior Performance Ribbon                                         =
-Achievement Ribbon                                                  =
-Academic Ribbon                                                     =
-Cadet Leadership Course Ribbon                                      =
-Special Teams Competition Ribbon                                    =
-All-Service National Competition Ribbon                             =
-Air Force Nationals Competition Ribbon                              =
-Orienteering Ribbon                                                 =
-Leadership Development Requirement (LDR)                            =
-Drill Team Ribbon                                                   =
-Color Guard Ribbon                                                  =
-Sabre Team Ribbon                                                   =
-Marksmanship Ribbon                                                 =
-USAA Education Foundation JLAB                                      =
-Cyber Patriot Ribbon                                                =
-StellarXplorers Ribbon                                              =
-Raiders Team Ribbon                                                 =
-Military Model Building Ribbon                                      =
-Unmanned Aircraft Systems (UAS) Ribbon                              =
-Robotics Ribbon                                                     =
-Good Conduct Ribbon                                                 =
-Service Ribbon                                                      =
-Health and Wellness Ribbon                                          =
-Recruiting Ribbon                                                   =
-Activities Ribbon                                                   =
-Attendance Ribbon                                                   =
-Dress and Appearance Ribbon                                         =
-Longevity Ribbon                                                    =
-Bataan Death March Memorial Hike Award                              =
-Patriotic Flag Ribbon                                               =
-COVID-19 Resiliency Ribbon                                          =
-CAP General Carl Spaatz Award                                       =
-CAP General Ira C. Eaker Award                                      =
-CAP Amelia Earhart Award                                            =
-CAP General Billy Mitchell Award                                    =
-CAP General J.F. Curry Achievement Award                            =
+Top Performer Award                                                 = 30NA0 , 30BO1 , 30BO2
+Outstanding Cadet Ribbon                                            = 31NA0 , 31B01 , 31BO2 , 31BO3 , 31BO4                                          
+Leadership Ribbon                                                   = 32NA0 , 32BO1 , 32BO2 , 32BO3
+Superior Performance Ribbon                                         = 33NA0 , 33BO1 , 33BO2 , 33BO3
+Achievement Ribbon                                                  = 34NA0 , 34BO1 , 34BO2 , 34BO3
+Academic Ribbon                                                     = 35NA0 , 35BO1 , 35BO2 , 35BO3
+Cadet Leadership Course Ribbon                                      = 36NA0 , 36BS1 , 36BS2 , 36BS3 , 36BS4 , 36SS1 , 36SS2 , 36SS3 , 36SS4 , 36SS1BS1 , 36SS1BS2
+Special Teams Competition Ribbon                                    = 37NA0 , 37BO1 , 37BO2 , 37BO3 , 37BO4 , 37SO1 , 37SBO1 
+All-Service National Competition Ribbon                             = 38NA0 , 38BO1 , 38BO2 , 38BO3 , 38BO4 , 38SO1 , 38SBO1 
+Air Force Nationals Competition Ribbon                              = 39NA0 , 39BO1 , 39BO2 , 39BO3 , 39BO4 , 39SO1 
+Orienteering Ribbon                                                 = 40NA0 , 40BO1 , 40BO2 , 40BO3 , 40BO4 , 40SO1 , 40SBO1 
+Leadership Development Requirement (LDR)                            = 41NA0 , 41BO1 , 41BO2 , 41BO3 , 41BO4 , 41SO1
+Drill Team Ribbon                                                   = 42NA0 , 42BO1 , 42BO2 , 42BO3 , 42BO4 , 42SO1 , 40SBO1 
+Color Guard Ribbon                                                  = 43NA0 , 43BO1 , 43BO2 , 43BO3 , 43BO4 , 43SO1 , 40SBO1 
+Sabre Team Ribbon                                                   = 44NA0 , 44BO1 , 44BO2 , 44BO3 , 44BO4 , 44SO1 
+Marksmanship Ribbon                                                 = 45NA0 , 45BO1 , 45BO2 , 45BO3 , 45BO4 , 45SO1 
+USAA Education Foundation JLAB                                      = 46NA0
+Cyber Patriot Ribbon                                                = 47NA0
+StellarXplorers Ribbon                                              = 48NA0
+Raiders Team Ribbon                                                 = 49NA0
+Military Model Building Ribbon                                      = 50NA0
+Unmanned Aircraft Systems (UAS) Ribbon                              = 51NAO
+Robotics Ribbon                                                     = 52NAO
+Good Conduct Ribbon                                                 = 53NA0 , 53BO1 , 53BO2 , 53BO3 , 53BO4
+Service Ribbon                                                      = 54NA0 , 54BO1 , 54BO2 , 54BO3 , 54BO4 , 54SO1 , 54SBO1 , 54SBO2
+Health and Wellness Ribbon                                          = 55NA0 , 55BO1 , 55BO2 , 55BO3 , 55BO4 , 55BS1 , 55BSO1 , 55BSO2 , 55BSO3 , 55SS1 , 55SSO1 , 55SSO2 , 55SSO3 ,55GS1 , 55GSO1 , 55GSO2 , 55GSO3
+Recruiting Ribbon                                                   = 56NA0 , 56BO1 , 56BO2 , 56BO3 , 56BO4 , 56SO1
+Activities Ribbon                                                   = 57NA0 , 57BO1 , 57BO2 , 57BO3 , 57BO4 , 57SO1
+Attendance Ribbon                                                   = 58NA0 , 58BO1 , 58BO2 , 58BO3 , 58BO4 ,
+Dress and Appearance Ribbon                                         = 59NA0 , 59BO1 , 59BO2 , 59BO3 , 59BO4 , 59SO1
+Longevity Ribbon                                                    = 60NA0 , 60BO1 , 60BO2 , 60BO3 , 60BO4 , 60SO1
+Bataan Death March Memorial Hike Award                              = 61NA0 , 61BO1 , 61BO2 , 61BO3 , 61BO4 , 61SS1
+Patriotic Flag Ribbon                                               = 62NA0 , 62BO1 , 62BO2 , 62BO3 , 62BO4 , 62SS1
+COVID-19 Resiliency Ribbon                                          = 63NA0
+CAP General Carl Spaatz Award                                       = 64NA0
+CAP General Ira C. Eaker Award                                      = 65NA0
+CAP Amelia Earhart Award                                            = 66NA0
+CAP General Billy Mitchell Award                                    = 67NA0
+CAP General J.F. Curry Achievement Award                            = 68NA0
