@@ -1,7 +1,7 @@
 KEY:                                                                  
                     
 GS = Gold Star      BO  = Bronze Oak Leaf Cluster            BS0 = Bronze Star & Oak Leaf Cluster                     
-SS = Silver Star    SO  = Silver Oak Leaf Cluster            sS0 = Silver Star & Oak Leaf Cluster 
+SS = Silver Star    SO  = Silver Oak Leaf Cluster            SS0 = Silver Star & Oak Leaf Cluster 
 BS = Bronze Star    SBO = Silver & Bronze Oak Leaf Cluster   GS0 = Gold Star & Oak Leaf Cluster 
 
 Ribbon Name:                                                        ID Number:
