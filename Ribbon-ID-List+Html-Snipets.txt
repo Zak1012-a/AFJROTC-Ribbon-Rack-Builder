@@ -77,3 +77,130 @@ CAP General J.F. Curry Achievement Award                            = 68NA0
 
 Complete Order of Precedence with IDs:
 1NA0 , 2NA0 , 3NA0 , 4NA0 , 5NA0 , 6NA0 , 7NA0 , 8NA0 , 9NA0 , 10NA0 , 11NA0 , 12NA0
+
+Html File Snippets
+
+Checkbox:
+
+ 	<figure>
+		<input type="checkbox" id="" name="" value="">
+		<img src="imgs/ribbons/" width="106px" class=""/>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Bronze Oak Leaf Cluster 1:
+
+   	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option> 	
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Bronze Oak Leaf Cluster 2:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Bronze Oak Leaf Cluster 3:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+        		 <option value="">4</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Bronze Oak Leaf Cluster 4:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+        		 <option value="">4</option>
+        		 <option value="">5</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Silver Oak Leaf Cluster 1:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+        		 <option value="">4</option>
+        		 <option value="">5</option>
+			 <option value="">6</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Silver and Bronze Oak Leaf Cluster Oak Leaf Cluster 1:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+        		 <option value="">4</option>
+        		 <option value="">5</option>
+			 <option value="">6</option>
+			 <option value="">7</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Silver and Bronze Oak Leaf Cluster Oak Leaf Cluster 2:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+        		 <option value="">4</option>
+        		 <option value="">5</option>
+			 <option value="">6</option>
+			 <option value="">7</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+Silver and Bronze Oak Leaf Cluster Oak Leaf Cluster 3:
+
+	<figure>
+	    	<select name="" id=""> 
+        		 <option value="">1</option> 
+        		 <option value="">2</option>
+        		 <option value="">3</option>
+        		 <option value="">4</option>
+        		 <option value="">5</option>
+			 <option value="">6</option>
+			 <option value="">7</option>
+			 <option value="">8</option>
+    		</select>
+        	<img src="imgs/ribbons/" width="106px" class="ribbon"/>
+		<figcaption></figcaption>
+	</figure>
+
+
