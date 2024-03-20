@@ -24,20 +24,16 @@
 				font-size:25px;
 				margin-bottom:0px;
 			}
-			.ribbonOn{
-				border:thick rgba(76,175,80,1.00) solid;
-			}
-			.ribbonOff{
-				border:thick transparent solid;
-			}
 			canvas {
 				background-color: #191970;
 				background-image: url('canvas_bg.png');
 				margin-bottom:5px;
 			}
-			figure {
+			divider {
 				text-align:center;
 				padding:5px;
+				font-size: 14px;
+				font-weight: bold;
 				width:245px;
 				height:90px;
 				background-color:antiquewhite;
@@ -46,38 +42,5 @@
 				cursor: pointer;
 				font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 			}
-			figure figcaption{
-				text-align:center;
-				font-size: 14px;
-				font-weight: bold;
-				width:245px;
-			}
-			.count{
-				font-size: 16px;
-				color:#F34437;
-				margin-bottom:18px;
-			}
-			.removeRibbon{
-				float:left;
-				font-size:30px;
-				font-weight:bold;
-				padding-left:10px;
-			}
-			.addRibbon{
-				float:right;
-				font-size:30px;
-				font-weight:bold;
-				padding-right:10px;
-			}
-			.plusMinus{
-			}
-			.ribbon{
-				margin-bottom:2px;
-			}
-			divider{
-				margin-top:5px;
-				margin-bottom:5px;
-				width:960px;
-			}
-			.ribbonContainer{
-			}
+			
+
