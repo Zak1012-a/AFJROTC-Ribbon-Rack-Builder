@@ -4,9 +4,14 @@
 		<meta name="keywords" content="Hargrave Military Academy, Hargrave Ribbon Rack, Hargrave">
 		<link rel="stylesheet" href="styles.css">
 		<script>
-			var getValue = document.getElementById('test').selectedOptions[0].value;
-
-			alert (getValue); // This will output the value selected.
+			var e = document.getElementById("ddlViewBy");
+			function onChange() {
+  			var value = e.value;
+  			var text = e.options[e.selectedIndex].text;
+  			console.log(value, text);
+		       }
+		       e.onchange = onChange;
+		       onChange();
 		</script>
 	</head>
 <body>
