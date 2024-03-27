@@ -6,7 +6,7 @@ function onChangetest1() {
   	console.log(value, text);
 	}
 e.onchange = onChange;
-onChange();
+onChangetest1();
 
 var e = document.getElementById("test2");
 function onChangetest2() {
@@ -15,7 +15,7 @@ function onChangetest2() {
   	console.log(value, text);
 	}
 e.onchange = onChange;
-onChange();
+onChangetest2();
 
 var e = document.getElementById("test3");
 function onChangetest3() {
@@ -24,5 +24,5 @@ function onChangetest3() {
   	console.log(value, text);
 	}
 e.onchange = onChange;
-onChange();
+onChangetest3();
 
